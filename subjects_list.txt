@@ -4,9 +4,11 @@ Analog circuits
 Analog communication and transmission line theory
 Systems Software
 probability, statistics and information theory
+
 Engineered materials
-Enviromental studies
-Introductory computational physics
+Enviromental studies (HM)
+
+Introductory computational physics (CS)
 
 
 That's all:)
