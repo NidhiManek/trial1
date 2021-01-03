@@ -1,0 +1,12 @@
+Name of subjects that we will study in 4th sem.
+
+Analog circuits
+Analog communication and transmission line theory
+Systems Software
+probability, statistics and information theory
+Engineered materials
+Enviromental studies
+Introductory computational physics
+
+
+That's all:)
